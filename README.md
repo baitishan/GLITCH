@@ -3,7 +3,7 @@ GLITCH is an artwork that is displaying your environmental temperature in changi
 
 # Hardware Required
 
-ARDUINO UNO, temperature sensor (18B20), LED (SMD 3RGB)  Wires
+ARDUINO UNO, temperature sensor (18B20), LED (SMD 3RGB), wires
 
 # Schematic diagram
 
