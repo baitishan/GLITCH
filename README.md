@@ -7,4 +7,4 @@ ARDUINO UNO, temperature sensor (18B20), LED (SMD 3RGB)  Wires
 
 # Schematic diagram
 
-<img src="GLITCH_STeckplatine.jpg" alt="drawing" width="400"/>
+<img src="GLITCH_Steckplatine.jpg" alt="drawing" width="400"/>
